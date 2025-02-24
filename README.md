@@ -174,11 +174,11 @@ El desarrollador no se hace responsable por el mal uso o las consecuencias que p
 
 ### Contacto Profesional
 Para propuestas laborales y colaboraciones profesionales:
-[https://rodolfocasan.github.io/web/job](https://rodolfocasan.github.io/web/job)
+[https://rodolfocasan.github.io/web/job](https://rodolfocasan.github.io/job)
 
 ### Contacto General
 Para consultas sobre el proyecto y otras inquietudes:
-[https://rodolfocasan.github.io/web/](https://rodolfocasan.github.io/web/)
+[https://rodolfocasan.github.io/web/](https://rodolfocasan.github.io/)
 
 ### YouTube
 ¡Sígueme en YouTube para más contenido sobre desarrollo y tecnología!
