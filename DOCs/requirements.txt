@@ -1,0 +1,8 @@
+requests
+tqdm
+psutil
+colorama
+flask-cors
+flask
+qrcode
+selenium
